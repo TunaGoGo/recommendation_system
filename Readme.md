@@ -1,1 +1,1 @@
-This recommendition system is practiced based on public data from *[data source(https://github.com/caserec/Datasets-for-Recommender-Systems?utm_source=chatgpt.com)]*
+This recommendition system is practiced based on public data from *[data source](https://github.com/caserec/Datasets-for-Recommender-Systems?utm_source=chatgpt.com)*
